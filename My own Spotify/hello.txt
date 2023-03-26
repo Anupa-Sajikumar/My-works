@@ -1,0 +1,3 @@
+            <i class="far fa-3x fa-fast-backward-circle"></i>
+            <i class="far fa-3x fa-play-circle"></i>
+            <i class="far fa-3x fa-fast-forward-circle"></i>
