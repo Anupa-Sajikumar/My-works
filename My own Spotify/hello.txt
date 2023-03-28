@@ -1,3 +1,14 @@
             <i class="far fa-3x fa-fast-backward-circle"></i>
             <i class="far fa-3x fa-play-circle"></i>
             <i class="far fa-3x fa-fast-forward-circle"></i>
+
+            songName: "Anti-Hero", filepath: "songs/Taylor Swift - Anti-Hero (Lyrics).mp3", coverPath: "Images/index9.jpeg"},
+    {songName: "Ready For It?", filepath: "songs/Taylor Swift - ...Ready For It_ (Audio).mp3", coverPath: "Images/index1.jpeg"},
+    {songName: "Look what you made me do", filepath: "songs/Taylor Swift - Look What You Made Me Do (Lyric Video).mp3", coverPath: "Images/index.jpeg"},
+    {songName: "Wildest Dreams", filepath: "songs/Taylor Swift - Wildest Dreams (Taylor’s Version) (Official Audio).mp3", coverPath: "Images/index2.jpeg"},
+    {songName: "Delicate", filepath: "songs/Taylor Swift - Delicate (Lyrics).mp3", coverPath: "Images/index3.jpeg"},
+    {songName: "Enchanted", filepath: "songs/Taylor Swift - Enchanted (Lyrics).mp3", coverPath: "Images/index4.jpeg"},
+    {songName: "Begin Again", filepath: "songs/Taylor Swift - Begin Again (Lyrics).mp3", coverPath: "Images/index5.jpeg"},
+    {songName: "Calm Down", filepath: "songs/Taylor Swift - You Need To Calm Down (Lyrics).mp3", coverPath: "Images/index6.jpeg"},
+    {songName: "Blank Space", filepath: "songs/Blank Space - Taylor Swift (Lyrics) 🎵.mp3", coverPath: "Images/index7.jpeg"},
+    {songName: "Carolina Folks", filepath: "/home/anupa-anne/Desktop/My-works/My own Spotify/songs/Taylor Swift - Carolina lyrics.mp3", coverPath: "Images/index8.jpeg"},
